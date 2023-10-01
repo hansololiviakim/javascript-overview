@@ -2,10 +2,10 @@
 
 ## 11.1 Promise
 
-👉 [06 > 3) > (1) Promise.md]()
+👉 [06 > 3) > (1) Promise.md](https://shorturl.at/qyGHQ)
 
 <br/><br/>
 
 ## 11.2 Class
 
-👉 [11 > (1) Class.md]()
+👉 [11 > (1) Class.md](https://shorturl.at/qwDLX)
