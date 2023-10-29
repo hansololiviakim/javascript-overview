@@ -71,4 +71,4 @@ const value = "value2" // 재선언 불가능, SyntaxError: Identifier 'value' h
 
 ## 1.4 let, const의 호이스팅
 
-- [02 > 1) > (1) 변수와 상수 참조](https://shorturl.at/sEF09)
+- [02 > 1) > (1) 변수와 상수 참조](<../02.%20기본%20문법/1)%20변수와%20상수/>)
